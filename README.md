@@ -1,6 +1,19 @@
 # Chi Notes
 
-This template should help get you started developing with Vue 3 in Vite.
+Open-source note taking application created in vue.js
+
+## LONG TERM GOALS
+
+- modern-ish ui
+
+## TODO
+
+- Get shadcn up and running
+- Authentication system using discord because why not
+- Superuser permission that can be edited in .env file
+- Basic landing page until further notice
+- Double sidebar with user dashboard and secondary sidebar with the actual notes
+- We'll see, also add all this to trello
 
 ## Recommended IDE Setup
 
