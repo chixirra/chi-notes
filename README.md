@@ -14,6 +14,8 @@ Open-source note taking application created in vue.js
 - Basic landing page until further notice
 - Double sidebar with user dashboard and secondary sidebar with the actual notes
 - We'll see, also add all this to trello
+- Figure out what database to use lol
+- Make it offline-accessible because hell yeah
 
 ## Recommended IDE Setup
 
